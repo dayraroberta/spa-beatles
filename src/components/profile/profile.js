@@ -1,8 +1,5 @@
-// Importando o React
 import React from "react";
-// Importando os components necessários da lib react-materialize
 import { Row, Col, Card } from 'react-materialize';
-// importando a foto do usuário (note que depois podemos usa-la facilmente chamando apenas avatar ao invés do caminho completo)
 import Beatles from '../../images/beatles.jpg';
 
 const Profile = () => (

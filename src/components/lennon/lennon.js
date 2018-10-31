@@ -1,8 +1,5 @@
-// Importando o React
 import React from "react";
-// Importando os components necessários da lib react-materialize
 import { Row, Col, Card, Input, Button, Helper } from 'react-materialize';
-// Importando o componenet UserProfile
 import John from '../../images/lennon.jpg';
 
 const Lennon = () => (
